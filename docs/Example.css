@@ -1,0 +1,92 @@
+
+html {
+    background-image: url(pictures/sierra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    max-width: 1000px;
+    margin: auto;
+    background-color: snow;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: "Arial Black", sans-serif;
+    font-size: 50px;
+    padding: 20px 10px 10px;
+    margin: 0;
+}
+
+h2 {
+    color: gray;
+    font-style: italic;
+    font-size: 25px;
+    padding: 5px;
+    margin: 0;
+}
+
+h3 {
+    color: gray;
+    font-style: initial;
+    font-size: 15px;
+    width: 100%;
+    margin: 0;
+    padding: 0 10px 20px;
+}
+
+nav {
+    background-color: #f9814d;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+li {
+    float: left;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 20px 20px;
+}
+
+div div p {
+    padding: 20px 50px 10px;
+    margin: 0;
+    font-family: Arial, serif;
+    font-size: 15px;
+    text-align: justify;
+    display: block;
+    line-height: 1.5;
+}
+
+div div h2{
+    color: #e97a50;
+    padding: 20px 40px 10px;
+    margin: 0;
+    background-color: snow;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+
+div div h3{
+    color: #883f25;
+    font-size: 20px;
+    font-style: italic;
+    padding: 30px 40px 10px;
+    margin: 0;
+}
